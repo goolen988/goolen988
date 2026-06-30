@@ -103,4 +103,19 @@ data is clean, and learnings TRANSFER across adjacent verticals.
 
 ## 裁决记录 (decision log — append dated entries)
 
-- *(none yet — first board session will write here)*
+- **2026-06-30 — Morgan/Megan 账号内容转向 & 三选一优先级**
+  - **决策：** 砍掉"娱乐圈人后转化"媒体打法。优先级排序：(1) 钛动 pilot（结构成双向门：
+    自费/保单素材数据/保案例权/不排他/黑盒交付护 IP）= 做美妆垂类的载体；(2) Morgan 账号
+    改造成自费 TikTok Shop Affiliate 实验室，KPI 从播放改为可归因成交；(3) 删纯娱乐圈人。
+  - **核心纠偏：** 用户把"流量"当产品，真实产品是"可归因获客"。"圈人后转化"= 字节消费老
+    经验复发（经验是负债），圈来的低意图粉不可归因、不可复用。"功亏一篑"是幻觉——零收入、
+    零闭环，没有可丢的资产。"做美妆"和"跟钛动"不是两件事：钛动客户(Peter Thomas Roth/
+    Dr. Scholl's)本就是美妆个护垂类。用户的"软内容流量好、硬转化没人看"其实是 Day-1 楔子
+    （软性自然内容仍可归因转化，agency 做不到），但必须接到归因/成交、而非养粉。
+  - **谁主张：** Elon（删娱乐线、逼三周闭环、想直接全力钛动）；Bezos（飞轮缺"可回收效果"
+    那半边、单双向门把钛动做成可逆门）；王兴（钛动=美妆垂类、别两条线放血、盯单位经济）；
+    黄峥（你的"问题"是楔子）。
+  - **谁反对/和解：** Elon 想删掉 Morgan 全力钛动 vs 王兴/Bezos 保留它当近乎免费的 affiliate
+    实验室 → 和解：保留但换 KPI，两周无可归因成交即归 Elon、删。
+  - **什么信号翻盘：** 钛动 pilot 若只能签排他/必须交方法 IP，则从优先级 1 掉下，affiliate
+    自实验室升为唯一主线。
