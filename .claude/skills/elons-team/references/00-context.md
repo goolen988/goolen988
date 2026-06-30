@@ -131,3 +131,14 @@ data is clean, and learnings TRANSFER across adjacent verticals.
   - **下一个动作**：选 1 个能给闭环投放数据的商家，"买来的模型+手搓策略"做一组 A/B，目标=一个干净的效果提升数字；同时写出数据契约字段表（唯一现在该写的"平台"）。
   - **谁主张/反对**：Collison（买生成层建价值层）+Elon（删两平台）+黄峥（数据闸门=终局非开局）；王兴反对（早搭对内平台顺运营）——零配方阶段壳必重写，先证配方胜出。
   - **推翻信号**：薄编排做 A/B 时发现不深控生成管线就拿不到关键 per-asset metadata → 那时才值得向下自建一层，而非现在重建整个 Higgsfield。
+
+- **2026-06-30(d) — 事实纠正 + A/B 路线分叉（前端之争的真问题）。**
+  - **事实纠正（board 自查）**：上一轮把 Arcads 当 concierge 背书是**错的**。核实：Arcads 2024/1 即 **self-serve PLG 软件**起家，warm-network 验证（首周 $5K MRR），founder 自带隐性知识（前 agency+app studio），$6M ARR / 5–7 人 / bootstrapped；那个"打电话 2 天交付"只是次要 managed add-on，非验证方式非核心模式。[getlatka, admiral, prnewswire]
+  - **关键洞察**：Arcads 不反驳"先 concierge"——因为它**故意绕开了高隐性知识**，做模板化通用 UGC（AI 演员口播），且**无数据护城河**（正是 context 警告的 commodity 创意生成层）。它印证 Perkins：手作学习早在他们自己 agency 做完了，再压成模板建 UI。
+  - **逼出的真分叉（现在卡用户的真问题）**：
+    - **路 A（Arcads 式）**：刻意选品牌创意里可模板化/低隐性知识的一刀 → self-serve UI 先行成立 → 但护城河弱、commodity。
+    - **路 B（用户一直描述的）**：高隐性知识+品牌定制+数据闭环 → 非 self-serve-UI-first → concierge-first 适用 → 护城河强但慢重人。
+    - 用户"必须建前端"的冲动指向 A；用户整个 thesis（数据闭环=护城河）指向 B。**A 与 B 对 UI 要求相反——这是内部矛盾，必须先选一条。**
+  - **下一个动作**：一句话写死赌 A 还是 B。B → 前端延后先 concierge 抽知识；A → 差异化不再是数据闭环，thesis 重写。
+  - **谁主张/反对**：Perkins（Arcads 印证先手作再产品化）+ Collison（别学它赢在 commodity 层）。
+  - **推翻信号**：若品牌创意里"可模板化那一刀"本身够大 + 能拿到熟人网络 → 路 A 成立、concierge 不必要，但须承认护城河变弱。
