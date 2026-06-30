@@ -142,3 +142,13 @@ data is clean, and learnings TRANSFER across adjacent verticals.
   - **下一个动作**：一句话写死赌 A 还是 B。B → 前端延后先 concierge 抽知识；A → 差异化不再是数据闭环，thesis 重写。
   - **谁主张/反对**：Perkins（Arcads 印证先手作再产品化）+ Collison（别学它赢在 commodity 层）。
   - **推翻信号**：若品牌创意里"可模板化那一刀"本身够大 + 能拿到熟人网络 → 路 A 成立、concierge 不必要，但须承认护城河变弱。
+
+- **2026-06-30(e) — deep research 复核：结构判断成立，撤回两个虚高数字，修正 A 的楔子。**
+  - **方法**：deep-research workflow（6 角度、26 源、121 claim、25 条对抗式三票验证），优先 2026 年 4-6 月源。
+  - **✅ 扛住（独立数据加强）**：生成层商品化（IAB：gen-AI 参与制作/增强占比 22%→39%，非全 AI 生成；Symphony 免费、Higgsfield $130M/估值>$1.3B、Runway $315M/$5.3B、Adobe×Runway 2025/12）；Arcads 非 agency 工具/对实体产品弱；卡点已移到判断+控制+品牌保真；SMB 比大企业采用快。**最关键独立确认**：Symphony 只自动化创意执行，活下来的 agency 全部重定位到它不碰的两件事——上游"做什么"策略 + 下游效果优化 = **用户最初的数据闭环护城河被第三方坐实**。
+  - **❌ 撤回（违反 mental-os 被对抗验证抓出）**："$9.1B/12% AI 视频广告支出"(0-3 毙,vivideo 厂商博客无原始引用)、"78% 团队季度用 AI 视频"(0-3 毙,同源)、"40% 广告是 gen-AI"(口径错,IAB 真实是"39% 参与制作或增强"≠全 AI)、Arcads"$6M ARR/4-6千客户"(getlatka 不可靠,争议;可靠的只有 2025/12 融 $16M seed)。
+  - **战略修正（比数字更重要）**：上一轮把"真实产品保真"当 A 头号楔子 → **站不住**。产品保真在分裂：静态握持/展示正被商品化(EzUGC"Product in Hand"卖护肤品保真、Symphony 免费)= table-stakes；可信"使用/演示"仍是 gap 但属模型 roadmap、不可控。**真正防得住的楔子=Symphony/生成器都不碰的两层:上游判断 + 下游效果闭环=用户最初的数据护城河。结论:用户最初 thesis 比上一轮 A-spec 更对,是 AI 漂移了。**
+  - **修正后 A 优先级**：① 产品保真=table-stakes 打勾项(买来的模型做到不输 EzUGC 即可),不是头号卖点;② Day-1 楔子=垂类原生 organic 创意品味(用户 TikTok edge,难抄);③ outcome 埋点从"隐形必做"升为**头号差异化**(数据攒起→卖点升级为"我做的视频我知道在你垂类会转"=B 升级闸门+不可抄楔子)。
+  - **下一个动作**：自营美妆并行验 ① 产品保真不输 EzUGC（过线）② 垂类 organic 模板第一条出片达可发水准（真楔子）。
+  - **谁主张/反对**：Collison（moat 在判断/效果层，Symphony 证伪法独立确认）+ 黄峥（别在被商品化的产品保真 all-in）。
+  - **推翻信号**：自营测出你的垂类品味相对 Arcads/Symphony 免费输出无可感知优势 → A 无 day-1 楔子，回 concierge/B 直接打效果。
