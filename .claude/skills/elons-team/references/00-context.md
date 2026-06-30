@@ -103,4 +103,11 @@ data is clean, and learnings TRANSFER across adjacent verticals.
 
 ## 裁决记录 (decision log — append dated entries)
 
-- *(none yet — first board session will write here)*
+- **2026-06-30 — 第一性原理是删除刀，不是 TCO 账本。**
+  - **问题**：用第一性原理评估 SMB 获客引擎；纠结是否要把全链三方（模型算力、Agency 人力、SDR 人力、SMB 生产物理极限）都算进成本；担心第一性原理会否定 venture 或不适用于多三方场景。
+  - **裁决**：第一性原理**完全适用且不否定 venture**——它否定的是"全链 TCO 核算"这个框架本身（那正是它要删的 anti-pattern）。Elon 在 Tesla/SpaceX 没有枚举供应商的供应商；他只画"物理地板价 vs 市场价"，攻击信息租金。垂直整合只在三方"既收暴利租金、又卡关键路径"时才做（电池单元 yes，铝/硅 no——他不挖矿）。
+  - **三方分类**：模型算力 = 商品，买，从护城河删；Agency/SDR = 高租金中间商，仅作冷启动临时分发，逐步工程化掉；SMB 生产极限 = 客户约束，是资质过滤器不是你的成本。
+  - **对标"内存+能源"的两大约束**：① "能源" = 每垂类闭环 outcome 归因数据（生成归零后，稀缺的是"选择"信号）；② "内存" = 自有归因基底 + 交付关系（system of record，不能被三方拿走）；前置使能约束 = **ML/数据联合创始人**（deal-breaker 级花钱对象）。
+  - **谁主张/谁反对**：Elon（删+先拿信号/节奏胜出）、Collison（能力约束=ML 合伙人是花钱主战场）、Bezos（Day-1 薄归因 schema 是不能省的单向门）；王兴反对急着把 Agency 当临时品（服务现金流有价值）——零闭环阶段 Elon 胜。
+  - **下一个动作**：钛动 pilot 条款里把 per-asset 转化归因数据所有权写成 must-get。
+  - **推翻信号**：第一个环显示 last-mile 归因物理上拿不到 → 约束变为"数据访问权"，thesis 重估。
