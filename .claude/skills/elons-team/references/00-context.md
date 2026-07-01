@@ -142,3 +142,37 @@ data is clean, and learnings TRANSFER across adjacent verticals.
     否则冻结钛动侧投入。
   - **什么信号推翻：** 钛动同意完全黑盒交付 → IP 收割风险消失 → 相位差可收窄到近并行，用户
     原"并行"命题基本成立。反之钛动要求看方法/进内核 → 相位差须拉大。
+
+- **2026-07-01 — 垂类选择：AI 视频获客切哪个垂类（deep research 支撑）**
+  - **用户框架 bug 纠偏：** "哪个垂类同时有流量+商业化"问法有误——商业化不住在内容账号，
+    住在下游**变现轨道**(IAP/telehealth CPA/保险 per-lead/affiliate 佣金)，账号只出流量。
+    真问题=哪条轨道单位注意力付费最高、约束最小、能插入 AI 自然流量。
+  - **研究关键事实(已对抗验证)：** 变现最厚的(healthcare/insurance)监管约束最高、正被联邦
+    +35 州执法；约束最低的(pet/家居/短剧内容)要么创作者层变现极弱、要么钱锁在 App 里。
+    **没有"全都容易"的象限。** 具体数字：GLP-1 telehealth 联盟 CPA Ro $50-75/Hims $175-250/
+    Eden $300-400/SkinnyRx $500-600；TikTok Shop 佣金 美妆保健 15-30%(最高档)、pet 8-18%、
+    家居 8-15%、3C 3-8%(最差)；Amazon pet/家居 3%、3C 2-2.5%；保险 per-lead shared $10-45/
+    exclusive $45-120/live transfer $80-200+；约会 affiliate CPL $5-10。短剧美 Q1 IAP ~$3.5亿
+    (占全球49%)但钱在 App 内解锁、非创作者账号。
+  - **约束红线(healthcare)：** FTC 罚 NextMed($15万+禁令)；FDA 2026/3 向 30 家发警告信；
+    35 州 AG 推 Meta 禁 AI 减肥广告+限 FDA 批准药；假医生/AI before-after 已违法；Meta 2025/2
+    禁 health&wellness 底部漏斗转化埋点。Finance 起不来=平台牌照门槛+禁 DM 漏斗(结构性,非创意)。
+    保险 FTC 罚 Assurance IQ+MediaAlpha 共 $1.45亿+TCPA($500-1500/次)+州牌照。
+  - **决策：** (1) **Megan 不整体 pivot**——"冲更多流量"是错 KPI；正确=保留情绪内容引擎，接
+    **美妆/保健 TikTok Shop affiliate(15-30% 最高佣金)+ 埋点归因**，KPI 换可归因成交。研究
+    证实美妆保健=最高佣金档，且撞 Megan 宝妈人设=补全闭环而非转向。(2) **删 3C**(佣金垃圾档)；
+    pet/家居仅练手。(3) **healthcare=终极奖品但只走合规车道、列 track-2**：不做广告主/假医生/
+    AI before-after(违法、单向门)；加持牌 telehealth 联盟(Hims/Ro/PlushCare/Eden CPA $50-400)
+    推 FDA 批准药，或**给持牌 telehealth 当获客供货方**(法律责任留广告主)=healthcare 版钛动 pilot。
+    (4) **短剧不 pivot 成情感号**(钱在 App 层)，但"给 ReelShort/DramaBox 供 UA"列为独立 B2B
+    选项(撞出海+增长长板)。
+  - **谁主张/反对：** 黄峥(healthcare 套利大奖，但自证违法钩子=真流量来源，剥掉只剩高 CPA)；
+    Bezos(单向门否决假医生 healthcare，合规车道+供货方结构)；王兴(美妆 affiliate=可迁移配方
+    闭环，优化 Megan 与切好垂类是同一动作)；Collison(合规即工程，finance/YMYL 为何起不来)；
+    Elon(删流量虚荣+3C)。张力：黄峥抢 healthcare vs Bezos/Collison 单向门 → 合规车道分两步。
+    **纠正 deep-research 头条：** 它捧短剧"双强最佳切入"在垂类层对、在主体层误导(IAP 在 App
+    非账号)，创作者账号打法短剧变现≈弱。
+  - **下一个动作：** Megan 挂美妆/保健 affiliate 链接+埋点，两周内跑第一条可归因成交。
+  - **什么信号推翻：** ①锁定持牌 telehealth 愿当广告主对象 → healthcare 提前并行；②美妆
+    affiliate 两周无可归因成交 → "情绪软内容→成交"桥在自己手里不成立 → 退回纯 UA 供货打法
+    (给短剧 App/telehealth 供流量、不自己变现)。
