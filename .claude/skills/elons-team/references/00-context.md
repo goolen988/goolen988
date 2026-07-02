@@ -21,26 +21,94 @@ key decisions, and receives qualified leads. The company keeps the marketing- an
 sales-conversion data to continuously optimize. **Deliverable = SMB 获客 (outcomes),
 not tools.**
 
+### 8-year endgame (two companies — user's own framing, board-endorsed)
+1. **头部 AI-augmented Agency**: effect-driven, solves 自然流量+付费流量+SDR+私域经营
+   as one integrated team. **Permanent, not a bootstrap crutch** (see 2026-07-02 log —
+   corrects the earlier "工程化掉" framing). Its job: accumulate expert judgment +
+   produce the COLD-START DATA the self-serve platform runs on. Markets never stop
+   shifting, so someone must permanently scout the frontier (new platforms, new
+   creative trends, new models) — that's this company's reason to exist forever, not
+   just early on.
+2. **SMB self-serve workbench**: SMB inputs its business info → gets ready-to-use
+   acquisition creative/flows out of the box. Unsatisfied → pays API + service fee.
+   Satisfied → shares data, binds to the platform for continuous optimization, revenue
+   share.
+   The mechanism connecting them: AI lets the Agency's "brain" flexibly call creative
+   tools and deliver GUARANTEED/continuously-improving outcomes (not just delivery).
+   As expert knowledge accumulates per vertical, a growing share of SMB demand gets
+   served by the tooled self-serve side.
+
+### Why incumbents fail (market diagnosis, board-endorsed)
+- **Platforms** (Meta/TikTok/Google): traffic + ad seller. Structurally conflicted —
+  won't seriously operate SMBs' business for them; limited incentive overlap.
+- **Creative tools** (Adobe, CapCut, Higgsfield generation-tool 三代): deliver the
+  DELIVERY PROCESS (lower the tech barrier + acquire more tool users), not the growth
+  OUTCOME. They don't integrate tech into a final, directly-convertible asset.
+- **Agencies**: human-labor service, low efficiency, too fragmented to capture
+  industry-wide synergy.
+- **The root failure is a two-language mismatch**: Agency people think in
+  operations/business terms, don't understand AI, lack systems thinking (frontline
+  first, THEN productize — the correct application of the Zhang Yiming guardrail).
+  Tool people think in product/model terms, don't understand merchants — they lower
+  the tech barrier and acquire tool users, which is NOT the same as internalizing all
+  of a merchant's operating complexity into the system (the C-end/B-end mindset gap,
+  restated for the AI era). **The fix is an abstraction-design problem (Collison's
+  axis), not a hiring problem**: give Agency operators a thin interface that captures
+  their tacit judgment as structured data by construction — don't ask them to become
+  engineers.
+- **Belief on strategy**: AI-era generalist tools burn too much money too fast (model
+  iteration speed + collapsed coding cost = the "Mythical Man-Month" scale advantage
+  is gone) — most land-grab-logic generalist players go bankrupt. Corollary: everyone
+  must monetize fast → the old-era lesson applies — start from a few high-value
+  region×vertical pairs, go deep, take a cut (rev-share), THEN expand. **Core metric:
+  ARR + paid retention**, not user count or generation volume.
+
 ### Customer priority
 1. US domestic SMB (primary)
 2. China出海 ecommerce (secondary)
 
 ### Capability priority (the funnel the system absorbs)
-1. **Social-platform ORGANIC acquisition** (自然流量) — the lead wedge
-2. Their paid-ad acquisition
-3. Google acquisition
-4. SDR active lead-mining + outreach + auto AI customer service
+Day-1 scope is ONLY #1. #2-#5 are the 8-year endgame's 5 acquisition domains,
+explicitly NOT sequenced into current scope yet (Elon: naming the endgame is fine;
+building 5 domains at once now is scope creep dressed as vision).
+1. **Social-platform ORGANIC acquisition / 跨平台账号经营** (自然流量) — the lead
+   wedge. Includes: platform positioning, per-platform rules, content strategy +
+   production, data recovery/attribution.
+2. **投广收割** (paid acquisition): creative strategy, creative production, spend
+   optimization via data. [was: "paid-ad acquisition" + "Google acquisition"]
+3. **转化链路** (conversion path) — NEWLY ADDED, unsequenced: landing pages, lead
+   follow-up, SKU design.
+4. **社群经营** (community) — NEWLY ADDED, unsequenced: fan community building,
+   membership/benefit design, asset production, relationship deepening.
+5. **SDR**: lead discovery, personalized outreach, active contact, AI customer
+   service.
 
 ### Channels
 TikTok + Meta + YouTube + Google. Future SDR mining: Reddit, community forums,
 public LinkedIn profiles, social comments/profiles.
 
-### Vertical sequence (NOTE: order is under active debate — see 裁决记录)
-Stated: 美妆+金融 → 新车+房产 → 医美+法律 → 教育+旅游 → 餐饮+招聘.
-Board's standing correction: **金融/医美/法律 are regulated, lead-gen, structurally
-different moats — do NOT pair them early.** Start in the ecommerce-creative-organic
-cluster (美妆 → fashion/home/fitness/supplements) where the organic engine shines,
-data is clean, and learnings TRANSFER across adjacent verticals.
+### Vertical sequence (refined 2026-07-02, consistent with prior board correction)
+**Industry priority**: 电商 > 留资 > 餐饮.
+- 电商 order: 美妆护肤 → 服装 → 保健品 → 3C → 家居 → 宠物.
+- 留资 order: 情感咨询 → AI/线上营销 → 金融 → 教育 → 汽车 → 房产.
+This matches the board's standing correction (start in the ecommerce-creative-organic
+cluster, 美妆 first, regulated lead-gen verticals — 金融/教育/汽车/房产 — pushed later
+in their cluster). Note: 情感咨询 as the FIRST lead-gen vertical needs one gut-check —
+confirm it doesn't carry mental-health-adjacent regulatory exposure before treating it
+as "unregulated" like the rest of 电商.
+
+**Region priority**: US > China. Rationale (user, board-endorsed with a caveat):
+historical pattern-match that ignoring China risks "being 偷家" (out-executed/cloned
+by a faster, cheaper China-based team) — real risk pattern, but the correct response
+at 0-closed-loops stage is to make the DATA MOAT compound fast enough to survive a
+tool-layer clone, not to enter China now (mental-os anti-pattern: premature breadth).
+Sequencing (US primary, China出海 ecommerce secondary) stays unchanged.
+
+**Constraint-funnel method (board-endorsed, output pending)**: pick Day-1 segment by
+intersecting (AI-amplifiable) ∩ (requires a strong/expensive model like Seedance
+specifically — not just adequate for a cheap model) ∩ (current agencies underserve).
+This is the correct first-principles filter for the actual wedge — output not yet
+shared with the board as of 2026-07-02.
 
 ## The operating model (the user's own, board-refined)
 
@@ -152,3 +220,15 @@ data is clean, and learnings TRANSFER across adjacent verticals.
   - **下一个动作**：自营美妆并行验 ① 产品保真不输 EzUGC（过线）② 垂类 organic 模板第一条出片达可发水准（真楔子）。
   - **谁主张/反对**：Collison（moat 在判断/效果层，Symphony 证伪法独立确认）+ 黄峥（别在被商品化的产品保真 all-in）。
   - **推翻信号**：自营测出你的垂类品味相对 Arcads/Symphony 免费输出无可感知优势 → A 无 day-1 楔子，回 concierge/B 直接打效果。
+
+- **2026-07-02 — 8 年两家公司终局采纳；Agency 定位改判为永久前哨；两家公司接口是最大敞口。**
+  - **背景**：用户下载了完整战略框架——8 年终局=两家公司（头部 AI Agency 负责冷启动数据源+永久一线侦察；SMB 自助工作台负责规模化交付，效果不满意付 API+服务费、满意则分成绑定）；市场三方失灵诊断（平台=流量贩子无动力做深；创作工具=交付过程不交付结果；Agency=人力服务效率低无法协同）；根因=两群人语言不通（Agency 懂生意不懂 AI，工具方懂产品不懂商家，这是 C 端/B 端思维差异的 AI 时代重演）；US>中国排序理由="不做中国怕被偷家"；约束漏斗方法论（AI 可放大 ∩ 非强模型不可 ∩ 当前 agency 服务不好的交集）。
+  - **缺失信息（决定性但看不到）**：流量来源维度、经营环节维度、约束漏斗实际输出（TOP10 定位）均被飞书文档权限挡住；一份本地 HTML 文件路径不可达。**这些直接决定具体切口，本轮裁决止于方法论层面。**
+  - **采纳**：8 年两家公司终局命名——是 context.md 已有"头部服务→提炼配方→腰尾 SaaS"模型的更锋利重述，非新增。两语言不通诊断（Collison：抽象层设计问题，不是招聘问题——解法是给 Agency 一线一个足够薄的接口，让判断"构造性"变成结构化数据，而非事后翻译）。"通用工具会因跑马圈地逻辑破产"的信念——反身性提醒：Runway/Higgsfield 自己正是这类玩家，他们的烧钱大战只会让生成层更便宜，加固而非削弱"买生成层"的判断。
+  - **改判**：Agency 定位从 2026-06-30"逐步工程化掉的临时分发"→**永久前哨部门**，因市场永远在变、需要常驻一线的侦察职能持续喂给自助平台冷启动数据。王兴"无限游戏"轴此役胜出，此前判早了。
+  - **新敞口（未解决，Bezos 点出）**：两家公司之间的接口契约设计——Agency 每单产出的不能只是"效果好"，必须是结构化的判断过程数据（哪步人介入、做了什么决定、为什么）。此前 concierge 方案里的"批注→数据契约"机制需要正式升级为这个永久接口，而不只是实验记录。
+  - **范围裁决**：5 大获客领域（跨平台账号经营/投广收割/转化链路/社群经营/SDR）是 8 年终局范围，**不是 Day-1 范围**。转化链路、社群经营是本轮新增、尚未排入 capability priority 的领域，已计入终局清单但标注"非当前阶段"。Day-1 严格只做 #1（自然流量账号经营）。
+  - **垂类顺序细化**：电商(美妆护肤→服装→保健品→3C→家居→宠物) > 留资(情感咨询→AI/线上营销→金融→教育→汽车→房产) > 餐饮，与此前板块纠偏一致；情感咨询作为首个留资垂类需一次监管风险 gut-check。
+  - **谁主张/反对**：王兴（Agency 永久化改判胜出）+ Bezos（接口契约是最大敞口）+ Elon（5 领域是终局非 Day-1，范围蔓延警惕）。
+  - **下一个动作**：用户补齐三段被挡住的内容（流量来源、经营环节、约束漏斗 TOP10 定位）；将批注→数据契约机制正式升级为 Agency↔自助平台接口契约。
+  - **推翻信号**：约束漏斗实际输出如果指向一个强模型（Seedance 类）并不构成真实差异化的人群 → "非强模型不可"这条筛选条件需要重新论证。
