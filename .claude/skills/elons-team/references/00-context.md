@@ -104,11 +104,21 @@ at 0-closed-loops stage is to make the DATA MOAT compound fast enough to survive
 tool-layer clone, not to enter China now (mental-os anti-pattern: premature breadth).
 Sequencing (US primary, China出海 ecommerce secondary) stays unchanged.
 
-**Constraint-funnel method (board-endorsed, output pending)**: pick Day-1 segment by
-intersecting (AI-amplifiable) ∩ (requires a strong/expensive model like Seedance
-specifically — not just adequate for a cheap model) ∩ (current agencies underserve).
-This is the correct first-principles filter for the actual wedge — output not yet
-shared with the board as of 2026-07-02.
+**Constraint-funnel method (board-endorsed, output received 2026-07-02 — see log)**:
+pick Day-1 segment by intersecting (AI-amplifiable) ∩ (requires a strong/expensive
+model like Seedance specifically — not just adequate for a cheap model) ∩ (current
+agencies underserve). TOP10 output surfaced 人身伤害律所/竖屏微短剧App/DTC补剂
+(IM8-verified)/fintech/医美/高客单教练/健身transformation/母婴/服饰DTC(unverified)/
+汽车经销商 — notably 美妆护肤 is NOT on this list (see log: this independently
+confirms beauty content is the easiest category for commodity tools, hence least
+defensible). Board verdict: 3 of top 5 (律所/医美/fintech) collide with the standing
+regulated-vertical redline above — do not promote them to Day-1 on this basis alone.
+竖屏微短剧App is not an SMB (VC-funded media/platform company) — drop from
+consideration. **DTC补剂(保健品) is the strongest Day-1 candidate that passes BOTH
+filters** (non-regulated, in the existing 电商 cluster, AND has a real near-term
+generation-technical requirement, backed by a verified precedent — IM8's Sabalenka
+digital-twin ad, 233M views/3 days, Veo3+Kling, Paracosm Creative — see log). Promote
+保健品 to a head-to-head Day-1 candidate alongside 美妆护肤, not a strict replacement.
 
 ## The operating model (the user's own, board-refined)
 
@@ -232,3 +242,14 @@ shared with the board as of 2026-07-02.
   - **谁主张/反对**：王兴（Agency 永久化改判胜出）+ Bezos（接口契约是最大敞口）+ Elon（5 领域是终局非 Day-1，范围蔓延警惕）。
   - **下一个动作**：用户补齐三段被挡住的内容（流量来源、经营环节、约束漏斗 TOP10 定位）；将批注→数据契约机制正式升级为 Agency↔自助平台接口契约。
   - **推翻信号**：约束漏斗实际输出如果指向一个强模型（Seedance 类）并不构成真实差异化的人群 → "非强模型不可"这条筛选条件需要重新论证。
+
+- **2026-07-02(b) — 约束漏斗 TOP10 到货：与既有电商序列冲突，裁定保健品并列美妆为 Day-1 候选。**
+  - **补齐信息**：用户贴出四张图——流量来源图（自然/付费流量按种草→转化的 Low ROI→High ROI 梯度排列，另有私域经营/SDR 独立轴；顶层拆出"商家自己执行" vs "UGC Creators 执行"两条供给线）、经营环节图（目标制定→构思→内容制作→合规&品牌对齐→人工微调→测试→数据回收，回收环回灌构思）、TOP10 定位表（人群×流量获取难度×变现难度×AI 对营销价值×AI 占比×为何非 Seedance 不可）。
+  - **图2 裁决**：经营环节图基本是上轮 Bezos 要的 Agency↔自助平台接口契约初稿，"人工微调"已是永久固定环节（与"Agency 改判永久"一致）。**缺口**：数据回收箭头目前只连"测试"（结果数据），未连"人工微调"（判断数据）——需要显式把人工微调步骤的决策内容也接入回收环，否则只学会"火不火"，学不会"人在哪个决策点让它变火"。
+  - **图1 裁决**：种草→转化的 Low ROI→High ROI 梯度直接支持判断层护城河——"帮商家把预算/精力从低 ROI 内容智能调配到高 ROI 内容"正是 Symphony/Arcads 不做的事，采纳不需再验。执行者拆分（商家 vs UGC Creators）记录備查，暂不展开。
+  - **图3/4（TOP10）核心冲突**：约束漏斗筛出的名单与既有"电商 organic 集群、美妆护肤打头"序列**几乎不重叠——美妆护肤压根没进前十**。核查两个关键论据：**IM8（#3 补剂论据）查证为真且更强**——Beckham 代言,Sabalenka 数字分身,95% AI/5%实拍,3 天 2.33 亿播放,Veo3+Kling,Paracosm Creative 操刀 [pjace.beehiiv, mediapost]；**Flamingals（#9 服饰论据）查无实据**，按 mental-os 纪律当传言处理，未提供来源前不采纳。
+  - **裁决**：两套方法论不矛盾——美妆没进前十恰恰独立印证上轮 deep-research 修正（产品保真正变 table-stakes，美妆是商品化工具最先攻下的品类，护城河最薄非最厚）。但**前五名里三个（律所#1/医美#5/fintech#4）正撞在 2026-06-30 立的红线上**（监管+留资型垂类不早碰），律所栏"流量获取难度/变现难度"自己写的是"未知"，医美栏自曝"Meta 已禁 before/after 图"——不能仅凭 AI 占比高就越过既有红线。**竖屏微短剧 App(#2) 是 VC 内容平台不是 SMB，分类错误，剔除。**
+  - **新 Day-1 候选**：**保健品(DTC补剂)** 是唯一同时通过"电商非监管+可迁移"与"真需要强模型"两个筛子、且有查证为真precedent 的垂类——提升为与美妆护肤并列的 Day-1 候选，非直接替代。健身 transformation、母婴列为备选观察。服饰(#9)待来源核实后再议。
+  - **谁主张/反对**：Collison（美妆未进前十印证既有修正）+ Elon（三垂类撞既有红线，不因新数据破例）+ 黄峥（微短剧非 SMB，分类错误剔除）。
+  - **下一个动作**：美妆护肤 vs 保健品用同一约束漏斗（流量获取×变现难度×AI 占比×是否撞监管红线）做头对头对比，选一个真正开跑；把人工微调判断数据接入数据回收环。
+  - **推翻信号**：保健品实测流量获取/变现难度显著劣于美妆护肤 → 退回美妆护肤原判。
